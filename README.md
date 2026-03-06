@@ -1,5 +1,4 @@
-# Hi there 👋 
-I'm Niharika Mathankar
+# Hi there 👋 I'm Niharika Mathankar
 
 🎓 Biomedical Engineering Student  
 💡 Interested in Machine Learning, Healthcare AI, and Biomedical Technology  
