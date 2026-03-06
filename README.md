@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Niharika Mathankar
+# Hi there 👋 
+I'm Niharika Mathankar
 
 🎓 Biomedical Engineering Student  
 💡 Interested in Machine Learning, Healthcare AI, and Biomedical Technology  
@@ -16,7 +17,7 @@
 ## 🛠️ Skills
 **Programming:** Python, Java  
 **Machine Learning:** SVM, Clustering, Image Processing  
-**Web Development:** HTML, JavaScript, Flask  
+**Web Development:** HTML, Flask  
 **Tools:** Google Colab, Git
 
 ---
